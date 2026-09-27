@@ -1,0 +1,451 @@
+{
+  "company": {
+    "name": "Yovarela Studio",
+    "rif": "",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "logo": ""
+  },
+  "rates": {
+    "VES_USD": 100,
+    "VES_EUR": 115
+  },
+  "pricing": {
+    "hour": 10,
+    "min": 30,
+    "standard": 40,
+    "premium": 50,
+    "discountMax": 10,
+    "deposit": 70
+  },
+  "materials": {
+    "acrylic": 49.52185792349727,
+    "shirt": 5,
+    "dtf": 20,
+    "subPaper": 0.5555555555555556,
+    "subInk": 0.025,
+    "tape": 0.16666666666666666,
+    "teflon": 0.03333333333333333,
+    "vinylCut": 3,
+    "vinylPrint": 10,
+    "coldLam": 9,
+    "hotLam": 0.2,
+    "led": 25,
+    "transformer": 10,
+    "separator": 2,
+    "petg": 0.025,
+    "bond": 1.092896174863388,
+    "premium": 2.5500910746812386,
+    "photo": 6.413339746673081,
+    "adhesive": 2.73224043715847,
+    "spray": 0.45,
+    "cardboard": 5
+  },
+  "products": [
+    [
+      "SUBLIMACIÓN",
+      "Franela",
+      [
+        "Pequeña",
+        "Mediana",
+        "Full"
+      ]
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Taza",
+      [
+        "11oz Premium",
+        "6oz Premium",
+        "11oz Mágica",
+        "6oz Mágica",
+        "11oz Peltre",
+        "6oz Peltre",
+        "Set de 4 6oz"
+      ]
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Gorra",
+      [
+        "Malla",
+        "Clásica",
+        "Premium",
+        "Plana"
+      ]
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Lanyard",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Llavero",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Mouse pad",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Portavasos",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Cuadro aluminio",
+      [
+        "20×30",
+        "20×15",
+        "40×60"
+      ]
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Rompecabezas",
+      [
+        "Pequeño",
+        "Mediano",
+        "Grande"
+      ]
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Portarretrato con cargador magnético",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Lapicero",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Placa vehicular",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Termo",
+      [
+        "Aluminio",
+        "Vacuum",
+        "Tipo Stanley"
+      ]
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Banderín",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Cartuchera",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Medias",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Pulsera",
+      []
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Peluche",
+      [
+        "Pequeño",
+        "Mediano",
+        "Grande"
+      ]
+    ],
+    [
+      "SUBLIMACIÓN",
+      "Carnet",
+      []
+    ],
+    [
+      "DTF",
+      "Franela",
+      [
+        "Pequeña",
+        "Mediana",
+        "Grande"
+      ]
+    ],
+    [
+      "DTF",
+      "Gorra",
+      [
+        "Malla",
+        "Premium",
+        "Clásica",
+        "Plana"
+      ]
+    ],
+    [
+      "DTF",
+      "Aplicación sobre prenda del cliente",
+      []
+    ],
+    [
+      "IMPRESIÓN",
+      "Impresión",
+      [
+        "A4",
+        "Carta",
+        "Oficio",
+        "A3/Tabloide",
+        "Otro"
+      ]
+    ],
+    [
+      "IMPRESIÓN",
+      "Plotter tinta",
+      []
+    ],
+    [
+      "IMPRESIÓN",
+      "Corte de impresión",
+      []
+    ],
+    [
+      "IMPRESIÓN",
+      "Laminado frío",
+      []
+    ],
+    [
+      "IMPRESIÓN",
+      "Laminado caliente",
+      []
+    ],
+    [
+      "ROTULACIÓN",
+      "Vinil impreso",
+      []
+    ],
+    [
+      "ROTULACIÓN",
+      "Vinil de corte",
+      []
+    ],
+    [
+      "ROTULACIÓN",
+      "Vinil reflectivo",
+      []
+    ],
+    [
+      "ROTULACIÓN",
+      "Vinil especial / holográfico",
+      []
+    ],
+    [
+      "ACRÍLICO",
+      "Aviso acrílico",
+      []
+    ],
+    [
+      "LÁSER",
+      "Grabado / corte láser",
+      []
+    ],
+    [
+      "3D",
+      "Impresión 3D",
+      []
+    ],
+    [
+      "DISEÑO / DIGITAL",
+      "Logotipo",
+      []
+    ],
+    [
+      "DISEÑO / DIGITAL",
+      "Branding",
+      []
+    ],
+    [
+      "DISEÑO / DIGITAL",
+      "Redes sociales",
+      []
+    ],
+    [
+      "DISEÑO / DIGITAL",
+      "Página web",
+      []
+    ],
+    [
+      "DISEÑO / DIGITAL",
+      "Campaña Ads",
+      []
+    ],
+    [
+      "PAPELERÍA",
+      "Tarjetas de presentación",
+      []
+    ],
+    [
+      "PAPELERÍA",
+      "Volantes",
+      []
+    ],
+    [
+      "PAPELERÍA",
+      "Folleto / tríptico",
+      []
+    ],
+    [
+      "PAPELERÍA",
+      "Hojas membretadas",
+      []
+    ],
+    [
+      "PAPELERÍA",
+      "Carpetas corporativas",
+      []
+    ],
+    [
+      "PAPELERÍA",
+      "Stickers / etiquetas",
+      []
+    ],
+    [
+      "PAPELERÍA",
+      "Invitaciones",
+      []
+    ],
+    [
+      "PAPELERÍA",
+      "Agenda ½ carta",
+      []
+    ],
+    [
+      "EVENTOS",
+      "Proyecto de evento",
+      []
+    ]
+  ],
+  "blanks": {
+    "Lanyard": 0.5,
+    "Llavero": 1,
+    "Mouse pad": 3,
+    "Portavasos": 3,
+    "20×30": 4,
+    "20×15": 2,
+    "40×60": 6,
+    "Pequeño": 5,
+    "Mediano": 6,
+    "Grande": 8,
+    "Portarretrato con cargador magnético": 8,
+    "Lapicero": 2,
+    "Placa vehicular": 8,
+    "Aluminio": 8,
+    "Vacuum": 12,
+    "Tipo Stanley": 15,
+    "Banderín": 3,
+    "Cartuchera": 4,
+    "Medias": 2,
+    "Pulsera": 0.5,
+    "Pequeño_peluche": 3,
+    "Mediano_peluche": 5,
+    "Grande_peluche": 8,
+    "Carnet": 2,
+    "Malla_gorra": 4,
+    "Clásica_gorra": 6,
+    "Premium_gorra": 12,
+    "Plana_gorra": 10
+  },
+  "materialMeta": {
+    "acrylic": {
+      "name": "Acrílico 3mm",
+      "unit": "m²"
+    },
+    "shirt": {
+      "name": "Franela",
+      "unit": "pieza"
+    },
+    "dtf": {
+      "name": "DTF comprado",
+      "unit": "metro 28cm"
+    },
+    "subPaper": {
+      "name": "Papel sublimación",
+      "unit": "hoja carta"
+    },
+    "subInk": {
+      "name": "Tinta sublimación",
+      "unit": "ml"
+    },
+    "tape": {
+      "name": "Cinta térmica",
+      "unit": "metro"
+    },
+    "teflon": {
+      "name": "Teflón protector",
+      "unit": "pieza"
+    },
+    "vinylCut": {
+      "name": "Vinil corte",
+      "unit": "metro"
+    },
+    "vinylPrint": {
+      "name": "Vinil impreso",
+      "unit": "metro"
+    },
+    "coldLam": {
+      "name": "Laminado frío",
+      "unit": "metro"
+    },
+    "hotLam": {
+      "name": "Laminado caliente",
+      "unit": "hoja"
+    },
+    "led": {
+      "name": "LED",
+      "unit": "m²"
+    },
+    "transformer": {
+      "name": "Transformador",
+      "unit": "pieza"
+    },
+    "separator": {
+      "name": "Separador",
+      "unit": "pieza"
+    },
+    "petg": {
+      "name": "PETG",
+      "unit": "gramo"
+    },
+    "bond": {
+      "name": "Bond 80g",
+      "unit": "m²"
+    },
+    "premium": {
+      "name": "Papel premium",
+      "unit": "m²"
+    },
+    "photo": {
+      "name": "Papel fotográfico",
+      "unit": "m²"
+    },
+    "adhesive": {
+      "name": "Papel adhesivo",
+      "unit": "m²"
+    },
+    "spray": {
+      "name": "Spray grabado metal",
+      "unit": "aplicación"
+    },
+    "cardboard": {
+      "name": "Cartón tapa dura",
+      "unit": "lámina"
+    }
+  }
+}
